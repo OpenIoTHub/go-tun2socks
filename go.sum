@@ -1,7 +1,5 @@
-github.com/OpenIoTHub/water v0.0.1 h1:giHyLRZDGVVxIBDlQjddv3oioJB95f4S1N+Qz4SREHs=
-github.com/OpenIoTHub/water v0.0.1/go.mod h1:m3aJb8A2uaUSpK7YnVjxnPC/D9bRukicWGNFyfPAvgI=
-github.com/songgao/water v0.0.0-20200317203138-2b4b6d7c09d8 h1:TG/diQgUe0pntT/2D9tmUCz4VNwm9MfrtPr0SU2qSX8=
-github.com/songgao/water v0.0.0-20200317203138-2b4b6d7c09d8/go.mod h1:P5HUIBuIWKbyjl083/loAegFkfbFNx5i2qEP4CNbm7E=
+github.com/OpenIoTHub/water v0.0.2 h1:OUxsp3/6cu/plsBggMOsAJgKXgv12623QhGGubj/pGg=
+github.com/OpenIoTHub/water v0.0.2/go.mod h1:zY+k4u4Tc8vCGoAHJxydcuoow/U+oGW5ptfwom/ZM6M=
 golang.org/x/net v0.28.0 h1:a9JDOJc5GMUJ0+UDqmLT86WiEy7iWyIhz8gz8E4e5hE=
 golang.org/x/net v0.28.0/go.mod h1:yqtgsTWOOnlGLG9GFRrK3++bGOUEkNBoHZc8MEDWPNg=
 golang.org/x/sys v0.24.0 h1:Twjiwq9dn6R1fQcyiK+wQyHWfaz/BJB+YIpzU/Cv3Xg=
