@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/songgao/water"
+	"github.com/OpenIoTHub/water"
 )
 
 func isIPv4(ip net.IP) bool {

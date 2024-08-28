@@ -3,7 +3,7 @@ package tun
 import (
 	"io"
 
-	"github.com/songgao/water"
+	"github.com/OpenIoTHub/water"
 )
 
 func OpenTunDevice(name, addr, gw, mask string, dnsServers []string, persist bool) (io.ReadWriteCloser, error) {

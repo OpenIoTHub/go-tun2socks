@@ -1,9 +1,11 @@
 module github.com/OpenIoTHub/go-tun2socks
 
-go 1.20
+go 1.22.3
 
 require (
-	github.com/songgao/water v0.0.0-20200317203138-2b4b6d7c09d8
+	github.com/OpenIoTHub/water v0.0.1
 	golang.org/x/net v0.28.0
 	golang.org/x/sys v0.24.0
 )
+
+require golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
